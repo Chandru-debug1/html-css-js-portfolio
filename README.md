@@ -41,7 +41,7 @@ html-css-js-portfolio/
 
 ## 📬 Contact  
 If you’d like to connect or collaborate, feel free to reach out:  
-- **GitHub**: [Chandru-debug1](https://github.com/Chandru-debug1)  
+- **GitHub**:(https://github.com/Chandru-debug1)  
 - **Email**: chandruworkspace3@gmail.com  
-- **LinkedIn**: *(add your LinkedIn profile here)*  
+- **LinkedIn**: (https://www.linkedin.com/in/chandru-datascientist/)
 
